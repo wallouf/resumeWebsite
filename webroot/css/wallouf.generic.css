@@ -1,0 +1,14 @@
+
+.text-grey
+{
+	color:grey;
+}
+.list-nostyle
+{
+	list-style: none;
+}
+.footer
+{
+	padding:15px 0;
+	background-color: #222;
+}
