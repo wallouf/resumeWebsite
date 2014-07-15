@@ -29,7 +29,7 @@ App::uses('AppController', 'Controller');
  * @link http://book.cakephp.org/2.0/en/controllers/pages-controller.html
  */
 class PortfoliosController extends AppController {
-	var $layout = "portfolio";
+	var $layout = "resumeMobile";
 /**
  * This controller does not use a model
  *
@@ -46,10 +46,15 @@ class PortfoliosController extends AppController {
  *	or MissingViewException in debug mode.
  */
 	public function display() {
-
+		$this->layout = "portfolio";
 	}
 
-	public function display_mobile(){
+	public function displayMobile(){
 		$this->layout = "resumeMobile";
+	}
+
+	public function displayProjects(){
+		$this->layout = "resumeMobile";
+		
 	}
 }

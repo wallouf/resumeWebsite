@@ -15,8 +15,8 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
         <li class="active"><a href="/">Resume</a></li>
-        <li class="disabled"><a href="/">Projects</a></li>
-        <li class="disabled"><a href="/">Fork me on Github</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="https://github.com/wallouf">Fork me on Github</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->

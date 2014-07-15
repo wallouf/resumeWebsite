@@ -17,9 +17,9 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="/">My Resume</a></li>
-            <li class="disabled"><a href="#about">Projects</a></li>
-            <li class="disabled"><a href="#contact">Fork me on github</a></li>
+            <li class="<?php if(strcasecmp($_SERVER['REQUEST_URI'],'/') == 0) echo "active"; ?>"><a href="/">My Resume</a></li>
+            <li class="<?php if(strcasecmp($_SERVER['REQUEST_URI'],'/projects') == 0) echo "active"; ?>"><a href="/projects">Projects</a></li>
+            <li><a href="https://github.com/wallouf">Fork me on github</a></li>
           </ul>
         </div>
       </div>
