@@ -445,7 +445,7 @@
 							<div class="well well-sm text-left">
 								<h3>You can download my resume in PDF:</h3>
 								<div class="media">
-								  	<a class="pull-left" href="files/CV_Tassin_Christian_2014_07_EN.pdf">
+								  	<a class="pull-left" href="files/CV_Tassin_Christian_2014_09_EN.pdf">
 								    	<img class="media-object" src="img/portfolio-pg7-dwn-1.png" alt="PDF">
 								  	</a>
 								  	<div class="media-body">
@@ -455,7 +455,7 @@
 								</div>
 								<hr>
 								<div class="media">
-								  	<a class="pull-left" href="files/CV_Tassin_Christian_2014_07_FR.pdf">
+								  	<a class="pull-left" href="files/CV_Tassin_Christian_2014_09_FR.pdf">
 								    	<img class="media-object" src="img/portfolio-pg7-dwn-1.png" alt="PDF">
 								  	</a>
 								  	<div class="media-body">
