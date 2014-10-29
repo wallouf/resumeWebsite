@@ -51,7 +51,7 @@
 			<p>
 				<div class="media">
 				  	<div class="pull-left hidden-xs">
-				   		<img width="145px" class="media-object" src="<c:url value='/resources/img/portfolio-pg5-exp-1.png' />" alt="Airbus Helicopters">
+				   		<img width="145px" class="media-object" src="img/portfolio-pg5-exp-1.png" alt="Airbus Helicopters">
 				  	</div>
 				  	<div class="media-body">
 					    <h4 class="media-heading text-primary">Fullstack Web developper & designer<small class="pull-right text-success" data-placement="left" data-toggle="tooltip" title="" data-original-title="Sept. 2012 to Sept. 2014"><span class="glyphicon glyphicon-calendar"></span> 2012 - 2014</small></h4>
@@ -91,7 +91,7 @@
 			<p>
 				<div class="media">
 				  	<div class="pull-left hidden-xs">
-				   		<img width="145px" class="media-object" src="<c:url value='/resources/img/portfolio-pg5-exp-1.png' />" alt="Airbus Helicopters">
+				   		<img width="145px" class="media-object" src="img/portfolio-pg5-exp-1.png" alt="Airbus Helicopters">
 				  	</div>
 				  	<div class="media-body">
 					    <h4 class="media-heading text-primary">Fullstack Java developper & designer<small class="pull-right text-success" data-placement="left" data-toggle="tooltip" title="" data-original-title="Sept. 2010 to Sept. 2012"><span class="glyphicon glyphicon-calendar"></span> 2010 - 2012</small></h4>
@@ -133,7 +133,7 @@
 			<p>
 				<div class="media">
 				  	<div class="pull-left hidden-xs">
-				   		<img width="145px" class="media-object" src="<c:url value='/resources/img/portfolio-pg3-exp-2.png' />" alt="Thrid school">
+				   		<img width="145px" class="media-object" src="img/portfolio-pg3-exp-2.png" alt="Thrid school">
 				  	</div>
 				  	<div class="media-body">
 				    <h4 class="media-heading text-primary">Developper<small class="pull-right text-success" data-placement="left" data-toggle="tooltip" title="" data-original-title="Apr. to Jun. 2010"><span class="glyphicon glyphicon-calendar"></span> 2010</small></h4>
@@ -156,7 +156,7 @@
 			<p>
 				<div class="media">
 				  	<div class="pull-left hidden-xs">
-				   		<img width="145px" class="media-object" src="<c:url value='/resources/img/portfolio-pg3-exp-1.png' />" alt="Second school">
+				   		<img width="145px" class="media-object" src="img/portfolio-pg3-exp-1.png" alt="Second school">
 				  	</div>
 				  	<div class="media-body">
 				    <h4 class="media-heading text-primary">School project<small class="pull-right text-success" data-placement="left" data-toggle="tooltip" title="" data-original-title="Feb. 2010"><span class="glyphicon glyphicon-calendar"></span> 2010</small></h4>
@@ -178,7 +178,7 @@
 			<p>
 				<div class="media">
 				  	<div class="pull-left hidden-xs">
-				   		<img width="145px" class="media-object" src="<c:url value='/resources/img/portfolio-pg2-educ-1.png' />" alt="First school">
+				   		<img width="145px" class="media-object" src="img/portfolio-pg2-educ-1.png" alt="First school">
 				  	</div>
 				  	<div class="media-body">
 				    <h4 class="media-heading text-primary">High School Degree<small class="pull-right text-success" data-placement="left" data-toggle="tooltip" title="" data-original-title="Sept. 2004 to Sept. 2008"><span class="glyphicon glyphicon-calendar"></span> 2008</small></h4>
@@ -190,7 +190,7 @@
 			<p>
 				<div class="media">
 				  	<div class="pull-left hidden-xs">
-				   		<img width="145px" class="media-object" src="<c:url value='/resources/img/portfolio-pg2-educ-2.png' />" alt="First school">
+				   		<img width="145px" class="media-object" src="img/portfolio-pg2-educ-2.png" alt="First school">
 				  	</div>
 				  	<div class="media-body">
 				    <h4 class="media-heading text-primary">University Degree in Technology<small class="pull-right text-success" data-placement="left" data-toggle="tooltip" title="" data-original-title="Sept. 2008 to Sept. 2010"><span class="glyphicon glyphicon-calendar"></span> 2010</small></h4>
@@ -202,7 +202,7 @@
 			<p>
 				<div class="media">
 				  	<div class="pull-left hidden-xs">
-				   		<img width="145px" class="media-object" src="<c:url value='/resources/img/portfolio-pg2-educ-3.png' />" alt="First school">
+				   		<img width="145px" class="media-object" src="img/portfolio-pg2-educ-3.png" alt="First school">
 				  	</div>
 				  	<div class="media-body">
 				    <h4 class="media-heading text-primary">Engineering Degree<small class="pull-right text-success" data-placement="left" data-toggle="tooltip" title="" data-original-title="Sept. 2010 to Sept. 2013"><span class="glyphicon glyphicon-calendar"></span> 2013</small></h4>
@@ -310,7 +310,7 @@
 					<a href="mailto:ct13860@gmail.com">
 						<div class="col-sm-12">
 							<div class="well well-sm">
-								<img src="<c:url value='/resources/img/portfolio-pg7-contact-1.png' />">
+								<img src="img/portfolio-pg7-contact-1.png">
 								<h4 class="text-info">Email: ct13860@gmail.com</h4>
 							</div>
 						</div>
@@ -318,7 +318,7 @@
 					<a href="https://www.linkedin.com/pub/christian-tassin/9b/285/329">
 						<div class="col-sm-6">
 							<div class="well well-sm">
-								<img src="<c:url value='/resources/img/portfolio-pg7-contact-4.png' />">
+								<img src="img/portfolio-pg7-contact-4.png">
 								<h4 class="text-info">LinkedIn</h4>
 							</div>
 						</div>
@@ -326,7 +326,7 @@
 					<a href="https://plus.google.com/u/0/106084353404845666371/posts">
 						<div class="col-sm-6">
 							<div class="well well-sm">
-								<img src="<c:url value='/resources/img/portfolio-pg7-contact-3.png' />">
+								<img src="img/portfolio-pg7-contact-3.png">
 								<h4 class="text-info">Google+</h4>
 							</div>
 						</div>
@@ -334,7 +334,7 @@
 					<a href="https://www.facebook.com/christian.tassin">
 						<div class="col-sm-6">
 							<div class="well well-sm">
-								<img src="<c:url value='/resources/img/portfolio-pg7-contact-2.png' />">
+								<img src="img/portfolio-pg7-contact-2.png">
 								<h4 class="text-info">Facebook</h4>
 							</div>
 						</div>
@@ -342,7 +342,7 @@
 					<a href="https://twitter.com/wallouf13">
 						<div class="col-sm-6">
 							<div class="well well-sm">
-								<img src="<c:url value='/resources/img/portfolio-pg7-contact-5.png' />">
+								<img src="img/portfolio-pg7-contact-5.png">
 								<h4 class="text-info">Twitter</h4>
 							</div>
 						</div>
@@ -355,7 +355,7 @@
 					<a href="files/CV_Tassin_Christian_2014_09_EN.pdf">
 						<div class="col-sm-6">
 							<div class="well well-sm">
-								<img src="<c:url value='/resources/img/portfolio-pg7-dwn-1.png' />">
+								<img src="img/portfolio-pg7-dwn-1.png">
 								<h4 class="text-info">My Resume in english</h4>
 							</div>
 						</div>
@@ -363,7 +363,7 @@
 					<a href="files/CV_Tassin_Christian_2014_09_FR.pdf">
 						<div class="col-sm-6">
 							<div class="well well-sm">
-								<img src="<c:url value='/resources/img/portfolio-pg7-dwn-1.png' />">
+								<img src="img/portfolio-pg7-dwn-1.png">
 								<h4 class="text-info">Mon CV en Français</h4>
 							</div>
 						</div>
