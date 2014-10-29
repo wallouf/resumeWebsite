@@ -1,7 +1,6 @@
 <style type="text/css">
   body {
     padding-top: 70px;
-    background-color:#F6F6F6;
   }
 </style>
 <div class="navbar navbar-inverse navbar-fixed-top navbar-default" role="navigation">
